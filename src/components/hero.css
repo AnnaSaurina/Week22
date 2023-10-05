@@ -1,0 +1,12 @@
+.hero-card{
+    width: 22%;
+    margin: 10px;
+}
+
+.hero-name{
+    font-weight: bolder;
+}
+
+.hero-img{
+    width: 100%;
+}
