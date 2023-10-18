@@ -1,4 +1,4 @@
-import './hero.css';
+import './Hero.css';
 
 function Hero(props) {
     return (
@@ -17,3 +17,4 @@ function Hero(props) {
 }
 
 export default Hero;
+

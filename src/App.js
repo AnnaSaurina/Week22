@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import './components/hero.css';
-import Hero from './components/hero';
+import './components/Hero';
+import Hero from './components/Hero';
 
 const heroes = [
   {
